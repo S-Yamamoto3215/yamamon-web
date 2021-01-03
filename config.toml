@@ -1,21 +1,21 @@
 baseURL = "https://yamamon.page/"
-languageCode = "en-us"
-title = "Shoya Yamamoto"
+languageCode = "ja"
+title = "Yamamon's web."
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Shoya Yamamoto"
     description = "フリーランスエンジニア 山元彰也のwebサイトです。"
     githubUsername = "S-Yamamoto3215"
-    accent = "red"
+    accent = "#23466e"
     showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    backgroundColor = "#f4f5f7"
+    font = "M Plus 1p"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["ruby", "html", "css", "javascript", "rails"]
+    copyright = "&copy; Shoya Yamamoto."
 
 [[menu.main]]
     url = "/"
@@ -27,41 +27,41 @@ googleAnalytics = ""
     name = "About"
     weight = 2
 
-[[menu.main]]
-    url = "/blogs/"
-    name = "Blog"
-    weight = 3
+# [[menu.main]]
+#     url = "/blog/"
+#     name = "Blogs"
+#     weight = 3
 
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 4
+# [[menu.main]]
+#     url = "/project/"
+#     name = "Projects"
+#     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:yamamotoshoya8@gmail.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/S-Yamamoto3215/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
+    url = "https://www.facebook.com/ShoyaYamamoto3215/"
+    name = "facebook"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
+    url = "https://twitter.com/yamamon_zawawa/"
+    name = "twitter"
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
+    url = "https://www.instagram.com/yamamoto_shoya/"
+    name = "instagram"
     weight = 5

@@ -3,9 +3,34 @@ title: About
 description: 私について
 ---
 
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
-Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.
+### 経歴
 
-Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere, including Netlify, Heroku, GoDaddy, DreamHost, GitHub Pages, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, and CloudFront and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
+1991年生まれ。宮崎県都城市出身。
 
-We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+小学校2年生のときに両親が離婚。  
+離婚後は、父方の祖母に育てられる。  
+中学3年生のときに祖母が他界したことを機に父親と再び暮らす。
+
+国立都城工業高等専門学校　電気・情報工学科に進学。  
+学費が払えないことを理由に2年生の終わりで中退。
+
+飲食店で4年ほどアルバイトをし、 高等学校卒業程度認定試験を受験。  
+高卒程度の資格をとったがハローワークに行き、求人に応募するもすべて書類落ち。
+
+そんなとき、ハローワークで職業訓練の案内を受け本格的にwebの勉強を始める。  
+2013年8月〜2014年2月の約6か月間、基本的なwebデザインやマークアップ、CSS、JavaScriptを学ぶ。
+
+職業訓練を経て、はじめて正社員として企業に就職。  
+株式会社オロ　宮崎サポートセンター（現：株式会社オロ宮崎）にてwebサイト更新スタッフとして勤務。  
+主に入稿物や更新スケジュールの管理、CMSを使ったサイトの更新作業に従事。
+
+同社にて2016年1月頃からシステムエンジニアとして勤務。  
+CMSの保守・改修やRailsを使ったwebサービスの運用・保守を担当。  
+この頃から本格的にエンジニアとしてのキャリアをスタートしました。  
+2020年2月に退職。
+
+2020年3月より株式会社Vitalizeに入社。  
+Railsを使った基幹システムの改修に従事。  
+エンジニア以外にもICT導入支援などコンサルティングのお手伝いもさせていただきました。
+
+エンジニアとして成長するために日々勉強中。
