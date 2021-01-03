@@ -2,7 +2,7 @@ baseURL = "https://yamamon.page/"
 languageCode = "ja"
 title = "Yamamon's web."
 theme = "minimal"
-googleAnalytics = ""
+googleAnalytics = "G-NC0YDQZZLH"
 
 [params]
     author = "Shoya Yamamoto"
