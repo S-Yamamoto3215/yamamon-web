@@ -11,10 +11,10 @@ googleAnalytics = "G-NC0YDQZZLH"
     accent = "#23466e"
     showBorder = true
     backgroundColor = "#f4f5f7"
-    font = "M Plus 1p"
+    font = "Sawarabi Gothic"
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["ruby", "html", "css", "javascript", "rails"]
+    favicon = "images/favicon.ico"
     copyright = "&copy; Shoya Yamamoto."
 
 [[menu.main]]
