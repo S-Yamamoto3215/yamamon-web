@@ -2,7 +2,6 @@ baseURL = "https://yamamon.page/"
 languageCode = "ja"
 title = "Yamamon's web."
 theme = "minimal"
-googleAnalytics = "G-NC0YDQZZLH"
 
 [params]
     author = "Shoya Yamamoto"
@@ -16,6 +15,7 @@ googleAnalytics = "G-NC0YDQZZLH"
     highlightStyle = "default"
     favicon = "images/favicon.ico"
     copyright = "&copy; Shoya Yamamoto."
+    googleAnalytics = "G-NC0YDQZZLH"
 
 [[menu.main]]
     url = "/"
