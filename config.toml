@@ -3,7 +3,6 @@ defaultContentLanguage = "ja"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "ja"
-# Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
 theme = "gokarna"
 title = "Shoya Yamamoto"
@@ -52,9 +51,9 @@ title = "Shoya Yamamoto"
     weight = 3
 
   [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
+    name = "Career"
+    pre = "<span data-feather='award'></span>"
+    url = "/career/"
     weight = 4
 
   [[menu.main]]
