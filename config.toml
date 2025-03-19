@@ -1,67 +1,79 @@
 baseURL = "https://yamamon.page/"
+defaultContentLanguage = "ja"
+enableEmoji = true
+enableRobotsTXT = true
 languageCode = "ja"
-title = "Yamamon's web."
-theme = "minimal"
+# Choose one of emacs, trac or perldoc
+pygmentsStyle = "monokai"
+theme = "gokarna"
+title = "Shoya Yamamoto"
 
 [params]
-    author = "Shoya Yamamoto"
-    description = "フリーランスエンジニア 山元彰也のwebサイトです。"
-    githubUsername = "S-Yamamoto3215"
-    accent = "#23466e"
-    showBorder = true
-    backgroundColor = "#f4f5f7"
-    font = "Sawarabi Gothic"
-    highlight = true
-    highlightStyle = "default"
-    favicon = "images/favicon.ico"
-    copyright = "&copy; Shoya Yamamoto."
-    googleAnalytics = "G-NC0YDQZZLH"
+  accentColor = "#FF4D4D"
+  avatarAltText = "Shoya Yamamoto"
+  avatarSize = "size-s"
+  avatarURL = "/images/avatar.jpg"
+  customHeadHTML = ""
+  dateFormat = "2023-10-15"
+  description = "Freelance engineer Shoya Yamamoto's website."
+  showPostsOnHomePage = ""
+  numberPostsOnHomePage = 2
+  fontSize = "16px"
+  footer = "Shoya Yamamoto."
+  togglePreviousAndNextButtons = false
+  displayReadingTime = false
+  metaKeywords = ["blog", "gokarna", "hugo"]
+  showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
-[[menu.main]]
-    url = "/"
+  socialIcons = [
+    {name = "twitter", url = "https://twitter.com/yamamon_zawawa/"},
+    {name = "instagram", url = "https://www.instagram.com/yamamoto_shoya/"},
+    {name = "email", url = "mailto:yamamotoshoya8@gmail.com"},
+    {name = "facebook", url = "https://www.facebook.com/ShoyaYamamoto3215/"},
+  ]
+
+[menu]
+  [[menu.main]]
     name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
     weight = 1
 
-[[menu.main]]
-    url = "/about/"
+  [[menu.main]]
     name = "About"
+    pre = "<span data-feather='user'></span>"
+    url = "/about/"
     weight = 2
 
-[[menu.main]]
-    url = "/blog/"
-    name = "Blogs"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
     weight = 3
 
-# [[menu.main]]
-#     url = "/project/"
-#     name = "Projects"
-#     weight = 4
-
-# Social icons to be shown on the right-hand side of the navigation bar.
-# The "name" field should match the name of the icon in Font Awesome.
-# The list of available icons can be found at http://fontawesome.io/icons.
-
-[[menu.icon]]
-    url = "mailto:yamamotoshoya8@gmail.com"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/S-Yamamoto3215/"
-    name = "github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://www.facebook.com/ShoyaYamamoto3215/"
-    name = "facebook"
-    weight = 3
-
-[[menu.icon]]
-    url = "https://twitter.com/yamamon_zawawa/"
-    name = "twitter"
+  [[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
     weight = 4
 
-[[menu.icon]]
-    url = "https://www.instagram.com/yamamoto_shoya/"
-    name = "instagram"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
     weight = 5
+
+  [[menu.main]]
+    identifier = "github"
+    pre = "<span data-feather='github'></span>"
+    url = "https://github.com/S-Yamamoto3215/"
+    weight = 6
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false
+
+[minify]
+  minifyOutput = true
