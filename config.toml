@@ -14,16 +14,16 @@ title = "Shoya Yamamoto"
   avatarSize = "size-s"
   avatarURL = "/images/avatar.jpg"
   customHeadHTML = ""
-  dateFormat = "2023-10-15"
+  dateFormat = "2006 / 01 / 02"
   description = "Freelance engineer Shoya Yamamoto's website."
-  showPostsOnHomePage = ""
-  numberPostsOnHomePage = 2
+  showPostsOnHomePage = "recent"
+  numberPostsOnHomePage = 4
   fontSize = "16px"
   footer = "Shoya Yamamoto."
-  togglePreviousAndNextButtons = false
-  displayReadingTime = false
+  togglePreviousAndNextButtons = true
+  displayReadingTime = true
   metaKeywords = ["blog", "gokarna", "hugo"]
-  showBackToTopButton = true # true or false for "back to top" button on posts and pages
+  showBackToTopButton = true
 
   socialIcons = [
     {name = "twitter", url = "https://twitter.com/yamamon_zawawa/"},
