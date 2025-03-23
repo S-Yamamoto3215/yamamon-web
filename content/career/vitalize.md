@@ -1,5 +1,5 @@
 ---
-title: "株式会社Vitalizeでの経験"
+title: "株式会社Vitalizeでの実績"
 type: page
 ---
 
