@@ -9,7 +9,7 @@ type: page
 | カテゴリ | スキルセット |
 | :-- | :-- |
 | **言語** | JavaScript, TypeScript, Ruby |
-| **フレームワーク / ライブラリ** | Next.js, Express |
+| **フレームワーク / ライブラリ** | Next.js, Express, Ruby on Rails |
 | **DB / ORM** | PostgreSQL, MySQL, TypeORM |
 | **その他** | Shopify, Herok, PowerCMS |
 
