@@ -32,13 +32,14 @@ type: page
 | Shopify サイト構築 | 2022/3 〜 2023/1 | Shopifyを活用したECサイトの立ち上げ | [more](/career/freelance/2203-2301) |
 | Shopify サイト改修 | 2022/11 | 既存サイトへのGAタグ設置等 | [more](/career/freelance/2211) |
 | ワードプレスサイト構築 | 2023/1 〜 2023/3 | ワードプレスを活用したサイトの立ち上げ | [more](/career/freelance/2301-2303) |
+| Shopifyアプリ 開発支援・運用保守 | 2023/10 〜 2025/5 | 機能追加、ライブラリアップデート等 | [more](/career/freelance/2310-2505) |
 | 自社SaaSサービス開発支援 | 2024/8 〜 2025/1 | Go、Nextを使ったSaaS開発、Designモックの作成 | [more](/career/freelance/2408-2501) |
 
 ### 現在進行中のプロジェクト
 | 案件名 | 期間 | 概要 | 詳細 |
 |:--|:--|:--|:--:|
 | Shopify サイト構築・運用保守 | 2021/12 〜 | サイト構築からその後の運用保守 | [more](/career/freelance/2112-now) |
-| Shopifyアプリ 開発支援・運用保守 | 2023/10 〜 | 機能追加、ライブラリアップデート等 | [more](/career/freelance/2310-now) |
+| React、PHP toC向け予約システムの開発 | 2025/6 〜 | バグ対応、新機能開発 | - |
 
 ## その他の活動
 
