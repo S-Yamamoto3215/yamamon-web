@@ -8,10 +8,10 @@ type: page
 ## Skill Set
 | カテゴリ | スキルセット |
 | :-- | :-- |
-| **言語** | JavaScript, TypeScript, Ruby |
-| **フレームワーク / ライブラリ** | Next.js, Express, Ruby on Rails |
+| **言語** | JavaScript, TypeScript, Ruby, PHP |
+| **フレームワーク / ライブラリ** | Next.js, Express, Ruby on Rails, Laravel |
 | **DB / ORM** | PostgreSQL, MySQL, TypeORM |
-| **その他** | Shopify, Herok, PowerCMS |
+| **その他** | Shopify, PowerCMS |
 
 ## Projects
 以下はこれまでに所属した会社や関わったプロジェクトの一覧です。各プロジェクトの詳細はリンク先をご覧ください。
